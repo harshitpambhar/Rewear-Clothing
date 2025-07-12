@@ -13,7 +13,7 @@ ReWear is a web-based platform that enables users to exchange unused clothing th
 ### 👥 Team Members
 - **TL** – Pambhar Harshit  
 - Talaviya Sarthak email:- stalaviya709@gmail.com
-- Smit Sureja email:- smitsureja472007@gmail.com
+- Smit Sureja email:- smitsureja472007@gmail.com 
 -Krish Ramanand email:- krishramanandi30@gmail.com
 
 ---
