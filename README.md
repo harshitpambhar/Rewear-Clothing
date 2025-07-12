@@ -1,100 +1,63 @@
-# Welcome to your Lovable project
+# ReWear – Community Clothing Exchange  
+*A sustainable fashion platform by Code Wizard*
 
-## Project info
+ReWear is a web-based platform that enables users to exchange unused clothing through direct swaps or a point-based redemption system. Designed to promote eco-conscious reuse and reduce textile waste, ReWear provides a seamless and engaging user experience with features for item listings, profile management, and admin moderation.
 
-**URL**: https://lovable.dev/projects/41a0a6a8-5a7d-4280-be38-21dc558a6e7a
 
-## Demo Credentials
+---
 
-For testing purposes, you can use these demo accounts:
+## 🤝 Team
 
-### User Account
-- **Email**: `user@rewear.com`
-- **Password**: `user123`
+**Code Wizard** – A team dedicated to building meaningful, impactful, and community-driven web solutions.
 
-### Admin Account
-- **Email**: `admin@rewear.com`
-- **Password**: `admin123`
+### 👥 Team Members
+- **TL** – Pambhar Harshit  
+- Talaviya Sarthak email:- stalaviya709@gmail.com
+- Smit Sureja email:- smitsureja472007@gmail.com
+-Krish Ramanand email:- krishramanandi30@gmail.com
 
-### Test Account
-- **Email**: `test@rewear.com`
-- **Password**: `testpassword123`
+---
 
-## Features
+## 🌱 Features
 
-- **Local Authentication**: Simple mock authentication system
-- **User Dashboard**: Manage your uploaded items
-- **Browse Items**: Explore the sustainable fashion marketplace
-- **Upload Items**: Add new clothing items to the platform
-- **Admin Panel**: Admin dashboard for platform management
-- **Responsive Design**: Works on all devices
-- **Modern UI**: Built with shadcn/ui components
+### 👤 User Authentication
+- Email/password-based signup and login system
 
-## How can I edit this code?
+### 🏠 Landing Page
+- Platform introduction  
+- Calls-to-action: “Start Swapping”, “Browse Items”, “List an Item”  
+- Featured items carousel
 
-There are several ways of editing your application.
+### 📋 User Dashboard
+- View profile details and points balance  
+- Manage uploaded items  
+- Track ongoing and completed swaps
 
-**Use Lovable**
+### 👗 Item Detail Page
+- Image gallery and full description  
+- Uploader info  
+- Swap or redeem via points  
+- Item availability status
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/41a0a6a8-5a7d-4280-be38-21dc558a6e7a) and start prompting.
+### ➕ Add New Item
+- Upload images and enter details (title, description, category, type, size, condition, tags)  
+- Submit for listing
 
-Changes made via Lovable will be committed automatically to this repo.
+### 🛠️ Admin Panel
+- Approve or reject item listings  
+- Remove inappropriate or spam content  
+- Lightweight dashboard for platform oversight
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 💻 Tech Stack (Suggested)
+- **Frontend:** React SPA with TypeScript  
+- **Backend:** Supabase (PostgreSQL + Auth + Storage)  
+- **Deployment:** Vercel/Netlify for frontend, Supabase for backend  
+- **Architecture:** JAMstack approach with serverless functions
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-- Local Authentication (Mock)
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/41a0a6a8-5a7d-4280-be38-21dc558a6e7a) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+## 📄 License
+This project is open-source and available under the [MIT License](LICENSE).
