@@ -11,10 +11,10 @@ ReWear is a web-based platform that enables users to exchange unused clothing th
 **Code Wizard** – A team dedicated to building meaningful, impactful, and community-driven web solutions.
 
 ### 👥 Team Members
-- **TL** – Pambhar Harshit  
+- **TL** – Pambhar Harshit  email:- harshitpambhar2220@gmail.com 
 - Talaviya Sarthak email:- stalaviya709@gmail.com
 - Smit Sureja email:- smitsureja472007@gmail.com
--  Krish Ramanandi email:- krishramanandi30@gmail.com
+- Krish Ramanandi email:- krishramanandi30@gmail.com
 
 ---
 
